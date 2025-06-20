@@ -1,2 +1,2 @@
-"# Mi proyecto" 
-"# Curso-Git-y-GitHub" 
+# Mi proyecto
+# Curso-Git-y-GitHub
