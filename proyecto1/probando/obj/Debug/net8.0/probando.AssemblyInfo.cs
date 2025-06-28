@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("probando")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5c704746a2d472cad062352f70eaeb2305653be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21e3b2cb57e556cbc833b162794d5fb8123e29ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("probando")]
 [assembly: System.Reflection.AssemblyTitleAttribute("probando")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
