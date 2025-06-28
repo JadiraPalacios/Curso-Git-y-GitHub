@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Curso-Git-y-GitHub/Curso-Git-y-GitHub.csproj": {}
+    "C:\\Users\\Jadira\\OneDrive\\Desktop\\Curso git y github\\Curso-Git-y-GitHub\\Curso-Git-y-GitHub.csproj": {}
   },
   "projects": {
-    "/workspaces/Curso-Git-y-GitHub/Curso-Git-y-GitHub.csproj": {
+    "C:\\Users\\Jadira\\OneDrive\\Desktop\\Curso git y github\\Curso-Git-y-GitHub\\Curso-Git-y-GitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Curso-Git-y-GitHub/Curso-Git-y-GitHub.csproj",
+        "projectUniqueName": "C:\\Users\\Jadira\\OneDrive\\Desktop\\Curso git y github\\Curso-Git-y-GitHub\\Curso-Git-y-GitHub.csproj",
         "projectName": "Curso-Git-y-GitHub",
-        "projectPath": "/workspaces/Curso-Git-y-GitHub/Curso-Git-y-GitHub.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Curso-Git-y-GitHub/obj/",
+        "projectPath": "C:\\Users\\Jadira\\OneDrive\\Desktop\\Curso git y github\\Curso-Git-y-GitHub\\Curso-Git-y-GitHub.csproj",
+        "packagesPath": "C:\\Users\\Jadira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jadira\\OneDrive\\Desktop\\Curso git y github\\Curso-Git-y-GitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jadira\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
